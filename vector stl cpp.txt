@@ -1,0 +1,5 @@
+Following STL are as follows----
+
+vector< int > a;
+
+sort(a.begin(),a.end());
