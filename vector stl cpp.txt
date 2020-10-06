@@ -2,4 +2,4 @@ Following STL are as follows----
 
 vector< int > a;
 
-sort(a.begin(),a.end());        // sort a vector elements
+sort(a.begin(),a.end());        // sort a vector elements from 0th index to last
