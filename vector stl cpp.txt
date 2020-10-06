@@ -3,3 +3,4 @@ Following STL are as follows----
 vector< int > a;
 
 sort(a.begin(),a.end());        // sort a vector elements
+reverse(a.begin(),a.end());     // reverse vector
